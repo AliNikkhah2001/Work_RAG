@@ -1,0 +1,9 @@
+[submodule "versions/v1"]
+	path = versions/v1
+	url = ../Work_Credit-RAG_Phase1
+[submodule "infrastructurem"]
+	path = infrastructurem
+	url = file:///C:/Users/10225/Desktop/RAG_V1/Work_RAG-Server-Setup
+[submodule "infrastructure"]
+	path = infrastructure
+	url = file:///C:/Users/10225/Desktop/RAG_V1/Work_RAG-Server-Setup
